@@ -15,7 +15,7 @@ permissions:
 jobs:
   build:
     permissions:
-      checks: read
+      checks: write
 
     runs-on: ubuntu-latest
 
